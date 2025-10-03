@@ -39,6 +39,7 @@
 - `/notion/` → link ou export do passo a passo detalhado
 
 ## 👨‍💻 Contato
-Seu Nome — Milena Soares [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-soares-037185243)
+Milena Soares
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-soares-037185243)
 
 
