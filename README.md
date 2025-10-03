@@ -1,9 +1,10 @@
-<img width="1024" height="683" alt="unnamed (3)" src="https://github.com/user-attachments/assets/d1e972cd-3931-41d2-848d-14ecaa640e18" />
+<img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/d1e972cd-3931-41d2-848d-14ecaa640e18" />
 # 🎧 Entre Suspiros — Produzido com IA
+si=e50faf97783545cbab4c282f0328fd69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 # 🎧 Escute o episódio (MP3):https://soundcloud.com/milena-coleto/suspiros-literarios-the-deal-do-campus-para-a-tela?si=e50faf97783545cbab4c282f0328fd69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_ij9nw1ij9nw1ij9n" src="https://github.com/user-attachments/assets/6c65eab7-d3e0-4b41-b0f5-6ad33abbd807" />
+<img width="300" height="300" alt="Gemini_Generated_Image_ij9nw1ij9nw1ij9n" src="https://github.com/user-attachments/assets/6c65eab7-d3e0-4b41-b0f5-6ad33abbd807" />
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts inteligentes.
 
