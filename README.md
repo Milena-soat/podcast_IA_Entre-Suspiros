@@ -30,12 +30,8 @@
 - **Documentação** e prompts organizados no Notion.
 - **Imagens** Foi feita as personagens realistas via Manus. 
 
-## 📚 Passo a passo (resumido)
-1. Use os prompts de Nome e Roteiro no ChatGPT.
-2. Gere a narração no ElevenLabs com o roteiro.
-3. Gere a capa no Gemini com as instruções de arte.
-4. Edite tudo no CapCut e exporte o MP3/MP4 final.
-5. Suba o episódio para Releases ou storage externo e atualize o link no README.
+## 📚 Passo a passo no Notion.
+[![Acesse o Notion](https://img.shields.io/badge/Notion-Podcast-000000?style=for-the-badge&logo=notion&logoColor=white)](https://terrific-clover-fc9.notion.site/Podcast-IA-Entre-Suspiros-27fa29b2745e80ddb5bacd38b463956b?source=copy_link)
 
 ## 🧾 Arquivos importantes
 - `/episodes/episode-01/` → `episode-01.mp3`, `script.md`, `prompts.md`, `cover.jpg`
@@ -43,4 +39,4 @@
 - `/notion/` → link ou export do passo a passo detalhado
 
 ## 👨‍💻 Contato
-Seu Nome — [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Seu Nome — [LinkedIn](www.linkedin.com/in/milena-soares-037185243)
