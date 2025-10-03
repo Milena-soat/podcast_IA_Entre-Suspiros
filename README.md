@@ -1,4 +1,4 @@
-# 🎧 Entre Suspiros — Produzido com IA
+# ✨🎧 Entre Suspiros — Produzido com IA
 <img width="1920" height="300" alt="Design sem nome" src="https://github.com/user-attachments/assets/8c86ff77-112e-4524-bbdf-b8d2d043c9d2" />
 
 ## Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts inteligentes.
@@ -22,7 +22,7 @@
 [![Notion](https://img.shields.io/badge/Notion-Notes-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
 
-## ✨ Como foi feito
+## ⚙️ Como foi feito
 - **Nome do Podcast** e **Roteiro** gerados via ChatGPT.
 - **Capa** criada via Gemini.
 - **Áudio** sintetizado na ElevenLabs.
@@ -30,7 +30,7 @@
 - **Documentação** e prompts organizados no Notion.
 - **Imagens** Foi feita as personagens realistas via Manus. 
 
-## 📚 Passo a passo no Notion.
+## 📝 Passo a passo no Notion.
 [![Acesse o Notion](https://img.shields.io/badge/Notion-Podcast-000000?style=for-the-badge&logo=notion&logoColor=white)](https://terrific-clover-fc9.notion.site/Podcast-IA-Entre-Suspiros-27fa29b2745e80ddb5bacd38b463956b?source=copy_link)
 
 ## 🧾 Arquivos importantes
@@ -38,8 +38,8 @@
 - `/prompts/` → prompts usados para gerar roteiro, capa e voz
 - `/notion/` → link ou export do passo a passo detalhado
 
-## 👨‍💻 Contato
-Milena Soares
+## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-soares-037185243)
+
 
 
