@@ -1,6 +1,5 @@
-<img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/d1e972cd-3931-41d2-848d-14ecaa640e18" />
 # 🎧 Entre Suspiros — Produzido com IA
-si=e50faf97783545cbab4c282f0328fd69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+<img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/d1e972cd-3931-41d2-848d-14ecaa640e18" />
 
 # 🎧 Escute o episódio (MP3):https://soundcloud.com/milena-coleto/suspiros-literarios-the-deal-do-campus-para-a-tela?si=e50faf97783545cbab4c282f0328fd69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
