@@ -14,14 +14,12 @@
 
 ## 💻 Tecnologias utilizadas.
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-IA-green?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
-[![Gemini](https://img.shields.io/badge/Gemini-IA-blue?style=for-the-badge)](https://www.gemini.com)
-[![Manus](https://img.shields.io/badge/Manus-IA-purple?style=for-the-badge)](https://www.manus.com)
-[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-red?style=for-the-badge)](https://elevenlabs.io)
-[![CapCut](https://img.shields.io/badge/CapCut-Editor-pink?style=for-the-badge)](https://www.capcut.com)
+[![Gemini](https://img.shields.io/badge/Gemini-IA-blue?style=for-the-badge&logo=google&logoColor=white)](https://www.gemini.com)
+[![Manus](https://img.shields.io/badge/Manus-IA-purple?style=for-the-badge&logo=manus&logoColor=white)](https://www.manus.com)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-red?style=for-the-badge&logo=elevenlabs&logoColor=white)](https://elevenlabs.io)
+[![CapCut](https://img.shields.io/badge/CapCut-Editor-pink?style=for-the-badge&logo=capcut&logoColor=white)](https://www.capcut.com)
 [![Notion](https://img.shields.io/badge/Notion-Notes-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
-
-## ⚙️ Como foi feito.
 - **Nome do Podcast** e **Roteiro** gerados via ChatGPT.
 - **Capa** criada via Gemini.
 - **Áudio** sintetizado na ElevenLabs.
