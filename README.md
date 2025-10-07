@@ -25,7 +25,7 @@
 - **Áudio** sintetizado na ElevenLabs.
 - **Edição** final no CapCut.
 - **Documentação** e prompts organizados no Notion.
-- **Imagens** Foram criadas personagens realistas através de Manus.
+- **Imagens** Selfies realistas das personagens, com legendas do vídeo criadas com Manus.
 ## 📝 Passo a passo no Notion.
 [![Acesse o Notion](https://img.shields.io/badge/Notion-Podcast-000000?style=for-the-badge&logo=notion&logoColor=white)](https://terrific-clover-fc9.notion.site/Podcast-IA-Entre-Suspiros-27fa29b2745e80ddb5bacd38b463956b?source=copy_link)
 
